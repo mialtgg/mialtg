@@ -1,7 +1,7 @@
-###                                                   Hi there, I’m Mine👋 👋
+# Hi there, I’m Mine👋 👋
 
 
- ## Here's a quick summary about me:
+ ###### Here's a quick summary about me:
 
 🏫 I'm also a 2nd-year Computer Engineering student at Celal Bayar univertsity 
 
