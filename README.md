@@ -9,7 +9,7 @@
 
 - 😊 I’m looking **for help with open source projects, and internships.**
 
-- 📫 How to reach me **mi.altg@gmail.com**
+- 📫 How to reach me **mi.altg01mail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
