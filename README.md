@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React /Redux**
 
-- 🌱 I’m currently learning **Redux,NextJs**
+- 🌱 I’m currently learning **Redux,NextJs,Typescript Python Pandas**
 
 - 😊 I’m looking **for help with open source projects, and internships.**
 
